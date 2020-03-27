@@ -1,0 +1,11 @@
+tensorflow==1
+sklearn 
+seaborn
+pandas
+pickle
+joblib
+matplotlib
+numpy
+gensim==3.7.3
+xgboost==0.90
+nltk==3.3
