@@ -8,4 +8,4 @@ matplotlib
 numpy
 gensim==3.7.3
 xgboost==0.90
-nltk==3.3
+nltk==3.4.5
